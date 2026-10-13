@@ -235,6 +235,7 @@
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
 - [consumer-firewall](https://github.com/Liangyuan-create/consumer-firewall) - AI shopping decision skill that builds evidence-ranked recommendation cards, flags manipulation tactics, and refines verdicts from product screenshots (Chinese).
+
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
